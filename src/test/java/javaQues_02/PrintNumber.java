@@ -1,4 +1,4 @@
-package javaQues;
+package javaQues_02;
 
 public class PrintNumber {
 
