@@ -1,0 +1,3 @@
+select "Numbers" from tableName where Numbers not in
+( select A.Numbers from tableNAme as A, tableName as B
+  where A.Numbers < B.Numbers)
